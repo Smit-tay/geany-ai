@@ -1,5 +1,7 @@
 # Geany AI
 
+s Under Construction 
+
 **Geany AI** is a flexible, multi-provider AI assistant plugin for the [Geany](https://www.geany.org/) IDE. Forked and extended from Geany Copilot, it brings the power of leading AI models (Grok, Claude, OpenAI, Ollama, and more) directly into your editor with a strong emphasis on safety and usability.
 
 Whether you need intelligent code completions, refactoring, explanations, or creative writing assistance, Geany AI lets you configure your preferred AI provider and apply changes only after explicit user confirmation.
